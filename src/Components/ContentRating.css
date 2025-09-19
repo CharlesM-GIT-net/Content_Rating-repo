@@ -2,10 +2,16 @@
 
 .content-rating {
     margin-bottom: 20px;
+    margin-top: 70px;
+    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 10px;
     flex-direction: column;
+    border: 2px solid #000000;
+    background-color: #f5f5f5;
+    font-family: 'Times New Roman', Times, serif;
   }
   
   .image {
@@ -17,6 +23,7 @@
   
   .rating-buttons {
     margin-top: 10px;
+    text-align: center;
   }
   
   .like-button,

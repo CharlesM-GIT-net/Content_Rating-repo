@@ -27,7 +27,7 @@ class ContentRating extends Component {
      <div className='content-rating'>
       <p>
         Latest <i>Unreal Engine 5</i> has been revolutionary in Gaming Industries.
-        With some popular games that has been using this engine; <b>Tekken 8, Black Myth:
+        With some popular games that has been using this engine; <b>Tekken 8, Black Myth: 
         Wukong, and Layers of Fear</b>. Do you agree? </p>
      </div>
 
